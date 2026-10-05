@@ -1,12 +1,16 @@
-## Student Performance Project
+# Student CGPA Performance Management System
 
-This project is used to analyze student performance data.
+This project is developed as part of an AI-Augmented Software Development Environment experiment.
 
-## Features
+## Purpose
 
-- Student performance analysis
-- Student data management
+The system manages student academic performance and calculates percentage and CGPA.
 
-## Student Dashboard
+## Technologies
 
-The dashboard provides an overview of student performance and academic progress.
+- Python
+- Git
+- GitHub
+- VS Code
+- AI Coding Assistant
+- Pytest
