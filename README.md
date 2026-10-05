@@ -10,5 +10,8 @@ This project is used to analyze student performance data.
 ## Student Dashboard
 
 The dashboard provides an overview of student performance and academic progress.
-The dashboard provides comprehensive information about student performance.
-The dashboard provides detailed analysis of student performance.
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> conflict-demo
